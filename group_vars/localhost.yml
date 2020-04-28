@@ -1,0 +1,36 @@
+homebrew_taps:
+  - homebrew/cask
+  - homebrew/core
+homebrew_packages:
+  - name: ansible
+  - name: awscli
+  - name: autoconf
+  - name: automake
+  - name: bash-completion
+  - name: docker
+  - name: git
+  - name: graphviz
+  - name: jq
+  - name: libtool
+  - name: tree
+  - name: vim
+  - name: wget
+homebrew_cask_packages:
+  - name: appcleaner
+  - name: docker
+  - name: font-source-han-code-jp
+  - name: google-chrome
+  - name: google-cloud-sdk
+  - name: google-japanese-ime
+  - name: iterm2
+  - name: skitch
+  - name: slack
+  - name: station
+  - name: visual-studio-code
+  - name: tunnelblick
+dot_files:
+  - .bash_profile
+  - .bashrc
+  - .vimrc
+code_extensions:
+  - vscode-icons-team.vscode-icons
