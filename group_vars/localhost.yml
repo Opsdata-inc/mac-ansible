@@ -27,6 +27,7 @@ homebrew_cask_packages:
   - name: slack
   - name: station
   - name: visual-studio-code
+  - name: remote-desktop-connection
   - name: tunnelblick
 dot_files:
   - .bash_profile
